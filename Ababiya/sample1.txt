@@ -1,1 +1,2 @@
 This is my new text file from git hub desktop
+I made a new update from my new branch
